@@ -1,8 +1,8 @@
-Olá, me chamo Monika Garcia, formada em analise e desenvolvimento de sistemas, atuo como analista programadora JR. 
+Acredito na tecnologia como um instrumento de inclusão e transformação na sociedade.
 
-Me apaixonei por java e aqui adicionarei meus projetos na linguagem.
-
-Let's go devs.
+Skills: C#, ASP.Net, .Net Core, HTML, CSS, Bootstrap, Javascript, Angular Js, React, API Rest, SQL, PostGres, Oracle.
+Conhecimento em metodologia agéis: Scrum. Mensageria com Rabbit MQ e Docker. 
+Conhecimento em padrão TDD, Clean Code, S.o.l.i.d e Design Patterns.
 
 <!---
 monika-garcia-dev/monika-garcia-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
